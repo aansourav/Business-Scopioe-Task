@@ -6,6 +6,7 @@
 -   **Password:** @@.SoUrAv007
 
 ## Live Link
+https://business-scopioe-task.vercel.app
 
 ## Features
 
