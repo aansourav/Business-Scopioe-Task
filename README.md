@@ -2,8 +2,6 @@
 
 ## Login Credentials
 
--   **Email:** a@a.com
--   **Password:** @@.SoUrAv007
 
 ## Live Link
 https://business-scopioe-task.vercel.app
